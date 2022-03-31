@@ -1,0 +1,12 @@
+.manga-table-wrapper {
+  .btn-add-manga {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.modal-wrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
